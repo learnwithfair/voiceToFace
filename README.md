@@ -1,6 +1,6 @@
 Thanks for visiting my github account!
 
-<p align="center"><img src="https://pngimg.com/uploads/php/php_PNG10.png" width="400" alt="PHP Logo"></p>
+<p align="center"><img src="https://pngimg.com/uploads/php/php_PNG10.png" width="400" height="200" alt="PHP Logo"></p>
 
 ## About PHP
 
@@ -26,4 +26,4 @@ Thanks for visiting my github account!
 |Home|Match Face|
 |![Home](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/home.png)|![Match](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/face.png)|
 |Dashboard|Upload Form|
-|![Dashboard](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/dashboard.png)||![Dashboard](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/upload.png)|
+|![Dashboard](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/dashboard.png)|![Dashboard](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/upload.png)|
