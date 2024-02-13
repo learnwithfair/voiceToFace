@@ -1,0 +1,41 @@
+.popup-title {
+    color: blue;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.popup-section {
+    display: contents;
+
+
+}
+
+.popup-img-title {
+    width: 200px;
+    margin: 20px;
+    font-size: 25px;
+    display: inline;
+    font-weight: bolder;
+
+
+
+}
+
+
+
+.popup-img-pos {
+    height: 250px;
+    width: 200px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 2px #ddd solid;
+}
+
+.popup-img-pos:hover {
+    border: 2px blue solid;
+}
+
+#popup-shows {
+    /* visibility: hidden; */
+    display: none;
+}

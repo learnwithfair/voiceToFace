@@ -1,0 +1,190 @@
+* {
+    box-sizing: border-box;
+    color: black;
+}
+
+body {
+    background-image: url('../img/background.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-size: 100% 100%; */
+    background-size: cover;
+
+    /* background-color: white; */
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    background-color: none;
+    /* background-color: white; */
+    border: none;
+    color: black;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'arial';
+
+
+
+}
+
+.card {
+    background-color: none;
+}
+
+/* #####################################################################################  */
+/* header Start  */
+.header .welcome {
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.header .title {
+    color: blue;
+    font-weight: 800;
+    font-style: italic;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header .gameTitle {
+    color: black;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header .gameTitle>span {
+    color: blue;
+}
+
+.header .titleDescription {
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+
+.header .title>b {
+    font-size: 16px;
+    color: black;
+    font-weight: 900;
+    position: absolute;
+    margin-top: 10px;
+
+}
+
+.header .visitorCount {
+    color: blue;
+    font-weight: 900;
+    font-style: italic;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.header .visitorCount>span {
+    color: blue;
+
+}
+
+/* #####################################################################################  */
+
+
+
+/* #####################################################################################  */
+/* Header Banner  */
+
+
+.rule p {
+
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+    color: black;
+
+}
+
+.description>p {
+    padding: 2px;
+    margin: 0px;
+    font-style: italic;
+
+}
+
+
+/* #####################################################################################  */
+/* Footer Start  */
+.footer {
+
+
+    /* background-color: #ddd; */
+    max-width: 100%;
+    margin: 0 auto;
+    width: 100%;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.footer>center {
+    color: black;
+}
+
+.footer span {
+
+    cursor: pointer;
+    color: blue;
+    font-weight: 700;
+}
+
+.footer span:hover {
+    font-weight: bold;
+    color: blue;
+}
+
+
+/* Footer End  */
+/* #####################################################################################  */
+/* Game Page start */
+.audio-img {
+    height: 250px;
+    width: 100%;
+    cursor: pointer;
+}
+
+
+
+.img-select-result b {
+
+    color: red;
+
+
+}
+
+.img-select-result b i {
+
+    color: blue;
+    cursor: pointer;
+
+
+}
+
+.img-select-result .result {
+
+    color: blue;
+    font-size: 22px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Game page end  */
+/* #####################################################################################  */

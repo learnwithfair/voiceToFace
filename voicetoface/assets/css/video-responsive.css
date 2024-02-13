@@ -1,0 +1,26 @@
+@media screen and (min-width: 766px) {
+    #video1 {
+        display: none;
+
+    }
+
+    #video2 {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #video1 {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .video>embed {
+        width: 80% !important;
+
+    }
+
+    #video2 {
+        display: none;
+    }
+}
