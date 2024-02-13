@@ -1,10 +1,10 @@
-Thanks for visiting my github account!
+Thanks for visiting my GitHub account!
 
-<p align="center"><img src="https://pngimg.com/uploads/php/php_PNG10.png" width="400" height="200" alt="PHP Logo"></p>
+<p align="center"><img src="https://pngimg.com/uploads/php/php_PNG10.png" width="400" height="250" alt="PHP"></p>
 
 ## About PHP
 
-**Hypertext Preprocessor (PHP)** is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by the PHP Group. PHP was originally an abbreviation of Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor.
+**Hypertext Preprocessor (PHP)** is a general-purpose scripting language geared towards web development. It was created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by the PHP Group. PHP was originally an abbreviation of Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor.
 
 
 ## Download Source Code
